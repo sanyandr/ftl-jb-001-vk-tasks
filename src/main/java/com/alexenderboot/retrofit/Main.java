@@ -16,7 +16,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws IOException {
         Double v = 5.131;
-        String token = "vk1.a.l-Fgr3eWyldVhzEDF4_N9kDPYR5oGGeiMSbj8r-Ls92jQBwpz2Cz5MuhED4z2r7Ys4HZ0d-YU7zmk6vHfDTG0W9HM-0E2aCgeduiWlk9k7DXBWaspJSV9h0SXfPPW0-6P3UZrgwaaRzxZRkBblZtPnr6fq4z5SYWub5ol95J-VJXNmd1OZGho9ubIbZmkeoW";
+        String token = "vk1.a.5oRGFV0MqzhD9XEvDDeOmg0Z1DxJbKcFt4QBj3-1O64izzAEU0r_Ogllp1IeuxzncqALST0o3Lsn8NtD7_yVPfwtbtpZ27xByDjGzXpGpJTjZ-jnDuASVVHFB75iUBpnFFSD90KoH4AqBonPcczhEMdKESWjx1A1B7UAZzCJzrq24grUHI6D6C5x2E0leY68";
 
         System.out.println("Start");
         JsonVKApi api = JsonVKService.getInstance().getJSONApi();
